@@ -90,7 +90,7 @@ Essas estruturas também existem em outras linguagens (como JavaScript, C, Java 
 **Execício 4.** Desenvolva um programa que leia a altura (em metros) e o peso (em quilogramas) e calcule o IMC - Índice de Massa Corporal do usuário e informe sua situação corporal conforme tabela abaixo. O cálculo do IMC é feito dividindo-se o peso pela altura ao quadrado. Sabe-se ainda que a tabela abaixo é válida apenas para pessoas acima dos 15 anos de idade, então o programa deverá invalidar os cálculos que fujam dessa regra.
 
 | RESULTADO          | SITUAÇÃO                |
-|-|-------------------------|
+|--------------------|-------------------------|
 | Abaixo de 17       | Muito abaixo do peso    |
 | Entre 17 e 18,49   | Abaixo do peso          |
 | Entre 18,5 e 24,99 | Peso normal             |
@@ -102,3 +102,22 @@ Essas estruturas também existem em outras linguagens (como JavaScript, C, Java 
 👉 [Clique aqui para ver a resolução completa](https://github.com/roberio-junior/logica/blob/main/Estruturas%20Condicionais/ex4.py)
 
 ---
+
+**Execício 5.** A CEF concederá um crédito especial com juros de 2% aos seus clientes de acordo com o saldo médio no último ano. Fazer um algoritmo em Python que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela a seguir. Imprimir uma mensagem informando o saldo médio e o valor de crédito.
+
+| Saldo Médio    | Percentual                  |
+|----------------|-----------------------------|
+| De 0 a 500     | Nenhum crédito              |
+| De 501 a 1000  | 30% do valor do saldo médio |
+| De 1001 a 3000 | 40% do valor do saldo médio |
+| Acima de 3000  | 50% do valor do saldo médio |
+
+👉 [Clique aqui para ver a resolução completa](https://github.com/roberio-junior/logica/blob/main/Estruturas%20Condicionais/ex5.py)
+
+---
+
+**Execício 6.** Escreva um algoritmo em Python que dada a idade de uma pessoa, determine sua classificação segundo a seguinte tabela:
+
+- maior de idade;
+- menor de idade;
+- pessoa idosa (idade superior ou igual a 65 anos).
