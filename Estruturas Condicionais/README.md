@@ -219,7 +219,7 @@ Essas estruturas também existem em outras linguagens (como JavaScript, C, Java 
 
 ---
 
-**Execício 14.** Escreva um algoritmo em Python que leia as notas das unidades de um aluno e sua frequência (porcentagem de 0 a 100%). Através da média calculada e da frequência, o algoritmo deve determinar a situação (APROVADO / QUARTA PROVA / REPROVADO).
+**Execício 15.** Escreva um algoritmo em Python que leia as notas das unidades de um aluno e sua frequência (porcentagem de 0 a 100%). Através da média calculada e da frequência, o algoritmo deve determinar a situação (APROVADO / QUARTA PROVA / REPROVADO).
 
 | Condição                                                                          | Situação  |
 |-----------------------------------------------------------------------------------|-----------|
