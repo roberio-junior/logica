@@ -1,8 +1,3 @@
-#   Dado três valores, A, B e C, construa um algoritmo em Python para
-# verificar se estes valores podem ser valores dos lados de um 
-# triângulo, e se for, se é um triangulo escaleno, um triangulo
-# equilátero ou um triangulo isósceles.
-
 a = float(input("Digite o valor do lado A do triângulo: "))
 b = float(input("Digite o valor do lado B do triângulo: "))
 c = float(input("Digite o valor do lado C do triângulo: "))

@@ -1,10 +1,3 @@
-#   Escreva um algoritmo em Python que dada a idade de uma pessoa,
-# determine sua classificação segundo a seguinte tabela:
-
-#   -maior de idade;
-#   -menor de idade;
-#   -pessoa idosa (idade superior ou igual a 65 anos).
-
 idade = int(input("Digite a idade da pessoa: "))
 
 if idade >= 18:
